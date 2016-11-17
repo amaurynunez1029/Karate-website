@@ -3,6 +3,8 @@ body {
    width:700px;
    background-color: black;
 }
+/* this doesnt send the info anywhere, i dont think many people will be sending their info anyways */
+
 
 .footer {
     overflow: auto;
@@ -52,10 +54,14 @@ body {
     
 }
 
+
+/* multiple side styles are repeated. This is for the use of new design while comparing the old design. **this was before github** */
+
+
 .sideindex {
-   display:block;
+      display:inline-block;
     background-color:#ffff33;
-    height:395px;
+    height:440px;
     width:7px;
 }
 
