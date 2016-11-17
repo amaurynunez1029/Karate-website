@@ -1,0 +1,66 @@
+body {
+   height:700px;
+   width:700px;
+   background-color: black;
+}
+
+.footer {
+    overflow: auto;
+    width:700px;
+    height:300px;
+}
+
+
+.navbar{
+    display:block;
+    margin:auto;
+    height:45px;
+    width:400px;
+    border-style:solid;
+    border-color:blue;
+    text-indent: 98px;
+    background-image:url(paint.jpg)
+    }
+
+
+.main {
+    display:inline-block;
+    height:400px;
+    width:500px;
+    color:blue;
+    text-align:center;
+    }
+.main img {
+    display:block;
+    width:500px;
+    height:400px;
+}
+
+.side {
+    display:block;
+    background-color:#ffff33;
+    float:left;
+    height:450px;
+    width:7px;
+}
+
+.sideHistory {
+        display:inline-block;
+    background-color:#ffff33;
+    height:440px;
+    width:7px;
+    
+}
+
+.sideindex {
+   display:block;
+    background-color:#ffff33;
+    height:395px;
+    width:7px;
+}
+
+
+
+
+
+
